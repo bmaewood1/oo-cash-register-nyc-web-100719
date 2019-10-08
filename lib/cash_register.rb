@@ -1,7 +1,7 @@
 
 class CashRegister
   
-  attr_reader :discount
+  attr_reader :discount, :total
   
   
 
