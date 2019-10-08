@@ -1,7 +1,7 @@
 
 class CashRegister
   
-  attr_reader :discount, :total
+  attr_reader :discount
   
   
 
@@ -10,13 +10,6 @@ class CashRegister
     @discount = discount
   end
 
-  # def discount=(discount)
-  #   @discount = discount
-  # end
-  
-  # def discount
-  #   @discount
-  # end
 
 
 end
